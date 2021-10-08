@@ -1,0 +1,33 @@
+﻿body {
+}
+.nuevoEstilo1 {
+    background-color: #FFFF99;
+    text-align: center;
+    text-indent: inherit;
+}
+.nuevoEstilo2 {
+}
+.nuevoEstilo3 {
+    background-color: #FFFF99;
+    background-repeat: inherit;
+    background-attachment: scroll;
+    background-position: center center;
+}
+.nuevoEstilo4 {
+    background-color: #FFFF99;
+}
+.nuevoEstilo5 {
+    background-color: #FFFF99;
+}
+.nuevoEstilo6 {
+    background-color: #FFFFCC;
+}
+.nuevoEstilo7 {
+    background-color: #FFFFCC;
+    text-align: center;
+    text-indent: inherit;
+}
+para el texto {
+    font-family: "Times New Roman", Times, serif;
+    font-size: medium;
+}
