@@ -1,0 +1,52 @@
+﻿body {
+}
+.nuevoEstilo1 {
+    background-color: #99FF99;
+}
+.nuevoEstilo2 {
+    background-color: #CCFF99;
+}
+.nuevoEstilo3 {
+    background-repeat: repeat;
+    background-color: #99FF66;
+}
+.nuevoEstilo4 {
+    background-color: #CCFF99;
+}
+.nuevoEstilo5 {
+    background-color: #CCFF99;
+}
+.nuevoEstilo6 {
+    font-size: 50px;
+    font-family: "Tw Cen MT";
+    font-weight: bolder;
+    font-variant: normal;
+    color: #FFFF00;
+    background-color: #000000;
+}
+.nuevoEstilo6 {
+}
+.nuevoEstilo7 {
+    font-size: 70px;
+}
+.nuevoEstilo8 {
+    font-size: 65px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.nuevoEstilo9 {
+    background-color: #000000;
+    color: #FFFF00;
+}
+.nuevoEstilo10 {
+    background-color: #000000;
+    color: #FFFF00;
+    font-family: "Arial Black";
+    font-size: 70px;
+}
+.nuevoEstilo11 {
+    background-color: #000000;
+    color: #FFFF00;
+    font-family: "Arial Black";
+    font-size: 50px;
+    text-align: center;
+}
